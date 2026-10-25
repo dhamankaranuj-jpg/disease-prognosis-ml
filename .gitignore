@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
+train_data.csv
+test_data.csv
+final_result.csv
