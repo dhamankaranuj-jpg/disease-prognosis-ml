@@ -24,7 +24,7 @@ It began as a **CKD prognosis system** built on the UCI Chronic Kidney Disease d
 | **Web app** | [Open the live app](https://disease-prognosis-ml-a3nptdvnfbbazksnmkyd3k.streamlit.app/) |
 | **Notebook** | [Open in Google Colab](https://colab.research.google.com/github/dhamankaranuj-jpg/disease-prognosis-ml/blob/main/Disease_Prognosis_Colab.ipynb) |
 | **Project report** | [Project_Report.pdf](Project_Report.pdf) |
-
+| **Datasets** | [Open the datasets folder](https://github.com/dhamankaranuj-jpg/disease-prognosis-ml/tree/main/datasets) |
 ## How to use the web app
 
 1. Open the [live app](https://disease-prognosis-ml-a3nptdvnfbbazksnmkyd3k.streamlit.app/). The first load can take 20 to 30 seconds.
